@@ -1,2 +1,2 @@
 # jd.dev
-Development site for Jolley Digital LLC
+Local development site for Jolley Digital LLC
